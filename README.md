@@ -1,28 +1,29 @@
-# Holmes Jr. High | Programming Club
+# Programming Club
 ### Created by: Oliver/otto Cotten 
-### [Live Slideshow Link](https://30olicot.github.io/SLIDES-PC/index.html)
+### [Live Slideshow Link](https://30olicot.github.io/SLIDES-PC/updated.html)
 
 ---
 
 ## Overview
-This repository contains the source code for the Cedar Falls Programming Club (Holmes Jr. High) introductory slideshow. It features a high-performance "4K Space Engine" background with volumetric nebulas, drifting stars, and cinematic shooting stars—all built using pure CSS and HTML.
+This project is a simple, high-quality slideshow for the Cedar Falls Programming Club. It uses a space theme with moving stars and clouds to welcome new members.
 
-## Session 01: The Agenda
-The initial session focuses on getting members onboarded and ready to build:
-1.  **The Setup:** Navigating to the GitHub website and other necessary web development platforms.
-2.  **The Start:** Deploying your very first application or website.
+## Session 01: The Plan
+In our first meeting, we focus on two simple steps:
+1.  **Log In:** Getting everyone signed into the websites we use to code.
+2.  **First Site:** Showing you how to put your very first website on the internet.
 
-## Tools and Workflow
-We primarily utilize the following tools to manage our projects:
-*   **GitHub:** Our main platform for hosting and sharing code.
-*   **Repositories:** Dedicated workspace folders for various group projects.
-*   **Organizations/Teams:** Structured groups divided by project interests and specialties.
+## The Tools
+*   **GitHub:** The main website where we save all our work.
+*   **Folders:** We use these to keep your project files organized.
+*   **Teams:** Groups based on what you want to learn and build.
 
-## Technical Features
-*   **Glassmorphism UI:** Modules use backdrop-filter for a modern, blurred-glass effect.
-*   **GPU Accelerated Animations:** Smooth star drifts and nebula pulses designed to run efficiently even on high-resolution screens.
-*   **Responsive Deck:** A scroll-snap-based presentation layout for easy navigation.
+## How to Join GitHub
+To get started, you need an account:
+1.  Go to **github.com** and click **Sign up**.
+2.  Use your school email: **00example@student.cfschools.org**.
+3.  Pick a password and a username.
+4.  Check your school Gmail to click the verify link.
 
 ---
-**Systems Operational.**  
+**Systems Ready.**  
 *Created for the Cedar Falls / Holmes Jr. High Programming Club.*
