@@ -20,9 +20,10 @@ In our first meeting, we focus on two simple steps:
 ## How to Join GitHub
 To get started, you need an account:
 1.  Go to **github.com** and click **Sign up**.
-2.  Use your school email: **29 or 30 or 31- example@student.cfschools.org**.
-3.  Pick a password and a username.
-4.  Check your school Gmail to click the verify link.
+2.  Use your school email.
+3.  Pick a password and for your username use your number,
+    the first 3 letters of first and last name, for example mine: 30olicot. 
+5.  Check your school Gmail to click the verify link.
 
 ---
 **Systems Ready.**  
